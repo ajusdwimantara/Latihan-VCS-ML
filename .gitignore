@@ -1,0 +1,5 @@
+mlartifacts/
+mlruns/
+train_pca.csv
+modelling.py
+modellingopt.py
